@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysiotherapyApp.Domain", "PhyiotherapyApp.Domain\PhysiotherapyApp.Domain.csproj", "{0621EAC8-AE22-4FB1-83EA-73C6FF2F89B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysiotherapyApp.Application", "PhysiotherapyApp.Application\PhysiotherapyApp.Application.csproj", "{DD1002CB-DC44-4EB8-8140-A2813730A6F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysiotherapyApp.Infrastructure", "PhysiotherapyApp.Infrastructure\PhysiotherapyApp.Infrastructure.csproj", "{9A9941E2-BF68-44B2-8DE7-59F4B507AC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysiotherapyApp.API", "PhysiotheraoyApp.API\PhysiotherapyApp.API.csproj", "{345C347A-9C0B-4823-A24D-BA861E3476B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0621EAC8-AE22-4FB1-83EA-73C6FF2F89B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0621EAC8-AE22-4FB1-83EA-73C6FF2F89B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0621EAC8-AE22-4FB1-83EA-73C6FF2F89B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0621EAC8-AE22-4FB1-83EA-73C6FF2F89B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1002CB-DC44-4EB8-8140-A2813730A6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1002CB-DC44-4EB8-8140-A2813730A6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1002CB-DC44-4EB8-8140-A2813730A6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1002CB-DC44-4EB8-8140-A2813730A6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9941E2-BF68-44B2-8DE7-59F4B507AC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9941E2-BF68-44B2-8DE7-59F4B507AC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9941E2-BF68-44B2-8DE7-59F4B507AC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9941E2-BF68-44B2-8DE7-59F4B507AC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345C347A-9C0B-4823-A24D-BA861E3476B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345C347A-9C0B-4823-A24D-BA861E3476B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345C347A-9C0B-4823-A24D-BA861E3476B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345C347A-9C0B-4823-A24D-BA861E3476B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E660A43C-D4C9-4A7B-955F-3B74C581BFDC}
+	EndGlobalSection
+EndGlobal

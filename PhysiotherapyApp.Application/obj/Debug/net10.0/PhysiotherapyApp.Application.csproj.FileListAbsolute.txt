@@ -1,0 +1,15 @@
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\bin\Debug\net10.0\PhysiotherapyApp.Application.deps.json
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\bin\Debug\net10.0\PhysiotherapyApp.Application.dll
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\bin\Debug\net10.0\PhysiotherapyApp.Application.pdb
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\bin\Debug\net10.0\PhysiotherapyApp.Domain.dll
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\bin\Debug\net10.0\PhysiotherapyApp.Domain.pdb
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\PhysiotherapyApp.Application.csproj.AssemblyReference.cache
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\PhysiotherapyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\PhysiotherapyApp.Application.AssemblyInfoInputs.cache
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\PhysiotherapyApp.Application.AssemblyInfo.cs
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\PhysiotherapyApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\Physioth.94189BC5.Up2Date
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\PhysiotherapyApp.Application.dll
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\refint\PhysiotherapyApp.Application.dll
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\PhysiotherapyApp.Application.pdb
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhysiotherapyApp.Application\obj\Debug\net10.0\ref\PhysiotherapyApp.Application.dll

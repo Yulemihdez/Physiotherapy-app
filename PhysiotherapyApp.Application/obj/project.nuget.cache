@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8n2CU72B0as=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Application\\PhysiotherapyApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yulemi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.15\\microsoft.extensions.dependencyinjection.abstractions.10.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

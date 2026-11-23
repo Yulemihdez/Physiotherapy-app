@@ -1,0 +1,11 @@
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\bin\Debug\net10.0\PhysiotherapyApp.Domain.deps.json
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\bin\Debug\net10.0\PhysiotherapyApp.Domain.dll
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\bin\Debug\net10.0\PhysiotherapyApp.Domain.pdb
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\obj\Debug\net10.0\PhysiotherapyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\obj\Debug\net10.0\PhysiotherapyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\obj\Debug\net10.0\PhysiotherapyApp.Domain.AssemblyInfo.cs
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\obj\Debug\net10.0\PhysiotherapyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\obj\Debug\net10.0\PhysiotherapyApp.Domain.dll
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\obj\Debug\net10.0\refint\PhysiotherapyApp.Domain.dll
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\obj\Debug\net10.0\PhysiotherapyApp.Domain.pdb
+C:\Users\Yulemi\Documents\BACKEND C#\Physiotherapy app\PhyiotherapyApp.Domain\obj\Debug\net10.0\ref\PhysiotherapyApp.Domain.dll

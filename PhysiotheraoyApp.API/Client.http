@@ -1,0 +1,34 @@
+﻿@baseUrl = https://localhost:7237
+
+### Consultar todos los clientes
+GET {{baseUrl}}/api/clients
+Accept: application/json
+
+### Registrar un cliente
+POST {{baseUrl}}/api/clients
+Content-Type: application/json
+
+{
+  "nombre": "Carlos",
+  "apellido": "Martínez",
+  "email": "carlos@email.com",
+  "edad": 22
+}
+
+### Consultar cliente por ID
+GET {{baseUrl}}/api/clients/1
+Accept: application/json
+
+### Actualizar cliente
+PUT {{baseUrl}}/api/clients/1
+Content-Type: application/json
+
+{
+  "nombre": "Carlos Alberto",
+  "apellido": "Martínez",
+  "email": "carlos@email.com",
+  "edad": 23
+}
+
+### Eliminar cliente
+DELETE {{baseUrl}}/api/clients/1

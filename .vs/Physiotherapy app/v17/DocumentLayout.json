@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{345C347A-9C0B-4823-A24D-BA861E3476B8}|PhysiotheraoyApp.API\\PhysiotherapyApp.API.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\physiotheraoyapp.api\\physiotherapyapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{345C347A-9C0B-4823-A24D-BA861E3476B8}|PhysiotheraoyApp.API\\PhysiotherapyApp.API.csproj|solutionrelative:physiotheraoyapp.api\\physiotherapyapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1002CB-DC44-4EB8-8140-A2813730A6F2}|PhysiotherapyApp.Application\\PhysiotherapyApp.Application.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\physiotherapyapp.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1002CB-DC44-4EB8-8140-A2813730A6F2}|PhysiotherapyApp.Application\\PhysiotherapyApp.Application.csproj|solutionrelative:physiotherapyapp.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1002CB-DC44-4EB8-8140-A2813730A6F2}|PhysiotherapyApp.Application\\PhysiotherapyApp.Application.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\physiotherapyapp.application\\interfaces\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1002CB-DC44-4EB8-8140-A2813730A6F2}|PhysiotherapyApp.Application\\PhysiotherapyApp.Application.csproj|solutionrelative:physiotherapyapp.application\\interfaces\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9941E2-BF68-44B2-8DE7-59F4B507AC8E}|PhysiotherapyApp.Infrastructure\\PhysiotherapyApp.Infrastructure.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\physiotherapyapp.infrastructure\\physiotherapyapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A9941E2-BF68-44B2-8DE7-59F4B507AC8E}|PhysiotherapyApp.Infrastructure\\PhysiotherapyApp.Infrastructure.csproj|solutionrelative:physiotherapyapp.infrastructure\\physiotherapyapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1002CB-DC44-4EB8-8140-A2813730A6F2}|PhysiotherapyApp.Application\\PhysiotherapyApp.Application.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\physiotherapyapp.application\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1002CB-DC44-4EB8-8140-A2813730A6F2}|PhysiotherapyApp.Application\\PhysiotherapyApp.Application.csproj|solutionrelative:physiotherapyapp.application\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621EAC8-AE22-4FB1-83EA-73C6FF2F89B7}|PhyiotherapyApp.Domain\\PhysiotherapyApp.Domain.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\phyiotherapyapp.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0621EAC8-AE22-4FB1-83EA-73C6FF2F89B7}|PhyiotherapyApp.Domain\\PhysiotherapyApp.Domain.csproj|solutionrelative:phyiotherapyapp.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345C347A-9C0B-4823-A24D-BA861E3476B8}|PhysiotheraoyApp.API\\PhysiotheraoyApp.API.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\physiotheraoyapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345C347A-9C0B-4823-A24D-BA861E3476B8}|PhysiotheraoyApp.API\\PhysiotheraoyApp.API.csproj|solutionrelative:physiotheraoyapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9941E2-BF68-44B2-8DE7-59F4B507AC8E}|PhysiotherapyApp.Infrastructure\\PhysiotherapyApp.Infrastructure.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\physiotherapyapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9941E2-BF68-44B2-8DE7-59F4B507AC8E}|PhysiotherapyApp.Infrastructure\\PhysiotherapyApp.Infrastructure.csproj|solutionrelative:physiotherapyapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1002CB-DC44-4EB8-8140-A2813730A6F2}|PhysiotherapyApp.Application\\PhysiotherapyApp.Application.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\physiotherapyapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1002CB-DC44-4EB8-8140-A2813730A6F2}|PhysiotherapyApp.Application\\PhysiotherapyApp.Application.csproj|solutionrelative:physiotherapyapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621EAC8-AE22-4FB1-83EA-73C6FF2F89B7}|PhyiotherapyApp.Domain\\PhyiotherapyApp.Domain.csproj|c:\\users\\yulemi\\documents\\backend c#\\physiotherapy app\\phyiotherapyapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0621EAC8-AE22-4FB1-83EA-73C6FF2F89B7}|PhyiotherapyApp.Domain\\PhyiotherapyApp.Domain.csproj|solutionrelative:phyiotherapyapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhysiotherapyApp.API",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotheraoyApp.API\\PhysiotherapyApp.API.csproj",
+              "RelativeDocumentMoniker": "PhysiotheraoyApp.API\\PhysiotherapyApp.API.csproj",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotheraoyApp.API\\PhysiotherapyApp.API.csproj",
+              "RelativeToolTip": "PhysiotheraoyApp.API\\PhysiotherapyApp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T01:01:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "PhysiotherapyApp.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "PhysiotherapyApp.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T21:17:28.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Application\\Interfaces\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "PhysiotherapyApp.Application\\Interfaces\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Application\\Interfaces\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "PhysiotherapyApp.Application\\Interfaces\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T20:40:13.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "PhysiotherapyApp.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "PhysiotherapyApp.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T20:35:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhyiotherapyApp.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "PhyiotherapyApp.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhyiotherapyApp.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "PhyiotherapyApp.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T19:48:20.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhysiotherapyApp.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Infrastructure\\PhysiotherapyApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PhysiotherapyApp.Infrastructure\\PhysiotherapyApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Infrastructure\\PhysiotherapyApp.Infrastructure.csproj",
+              "RelativeToolTip": "PhysiotherapyApp.Infrastructure\\PhysiotherapyApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T19:27:41.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotheraoyApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "PhysiotheraoyApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotheraoyApp.API\\Program.cs",
+              "RelativeToolTip": "PhysiotheraoyApp.API\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T18:43:19.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "PhysiotherapyApp.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "PhysiotherapyApp.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T18:31:23.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "PhysiotherapyApp.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhysiotherapyApp.Application\\Class1.cs",
+              "RelativeToolTip": "PhysiotherapyApp.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T18:30:39.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhyiotherapyApp.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "PhyiotherapyApp.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Yulemi\\Documents\\BACKEND C#\\Physiotherapy app\\PhyiotherapyApp.Domain\\Class1.cs",
+              "RelativeToolTip": "PhyiotherapyApp.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:45:09.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
